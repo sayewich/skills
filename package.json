@@ -1,0 +1,11 @@
+{
+  "name": "sayewich-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Mark Sayewich's board/advisory-panel agent skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sayewich/skills"
+  },
+  "license": "MIT"
+}
