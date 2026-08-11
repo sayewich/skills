@@ -71,6 +71,10 @@ extends: <voice name>                    # optional — a generic persona this v
 <a short list of named dimensions, each with a one-line description and a rating scale
 (e.g. 1-5 stars); the same heuristic above, made explicit and scored, not a separate concept>
 
+## Tone calibration               # optional — see "Tone calibration" below
+<a handful of named dials, each anchored at low/mid/high with a one-line description of how the
+voice actually sounds at that setting>
+
 ## Tensions and limits
 <where this voice's lens runs out, or where it's known to overreach>
 
@@ -145,6 +149,21 @@ as the separation is structural (its own heading).
 `persona` and `entity` voices carry no such restriction, but should document their Basis for
 transparency.
 
+## Tone calibration
+
+Optional, and rare — most voices don't need it, because a genuinely different rubric already
+produces genuinely different-sounding output. Reach for it only when two voices on the same board
+risk sounding alike despite holding different positions (practitioner voices in a similar
+register, say). It captures **how** a voice sounds, distinct from **what** it believes (the rubric
+above).
+
+Keep it to a handful of named dials, each described in plain language at low/mid/high — not a
+numeric or vector scale. The point is a spoken anchor a voice's actual output can be checked
+against, not a score to compute. A reasonable starting set: **directness** (softens a point vs.
+states it plainly), **formality** (casual register vs. formal), **warmth** (detached vs.
+personally invested), **certainty** (hedges vs. asserts outright). Use different dials if these
+don't fit a given voice; there's no fixed list.
+
 ## Modes
 
 **`deliberate`** (default) — an open question, answered across up to three progressively
@@ -185,3 +204,9 @@ exist, proceed silently; don't flag its absence.
 inlined directly. This is a manual, on-request flatten, not an automated pipeline; a saved copy
 of one is a snapshot that drifts as the source voice/board changes, not something to
 hand-maintain — regenerate it instead of editing it.
+
+For a board of several voices, give each flattened block a clear, consistently-worded heading
+(e.g. `## Perspective: <Name>`) rather than running them together as undifferentiated prose. This
+lets the target platform be asked to recall or focus on one voice by name later in the
+conversation ("go back to <Name>'s view on this") without the whole prompt needing to be resent —
+useful once a board has more than two or three voices.

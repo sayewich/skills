@@ -118,6 +118,16 @@ standard — the same way a real judging rubric gets built, rather than inventin
 nothing. Write it as a `### Rubric dimensions` subsection under Likely-take heuristic; it is not
 a separate section or a different kind of voice.
 
+### Tone calibration (rare — only when two voices on a board risk sounding alike)
+
+Most voices don't need this; a genuinely different rubric already produces genuinely
+different-sounding output. Only raise it when the user is building or reviewing a board where two
+voices hold different positions but write in a similar register (two practitioner voices, say).
+If so, offer a handful of named dials (directness, formality, warmth, certainty are a reasonable
+starting set — see `references/schema.md`), each anchored at low/mid/high in plain language, not a
+numeric score. Write it as a `## Tone calibration` section; it's optional and most existing voices
+should be left without one rather than retrofitted by default.
+
 ### Update mode
 
 If the voice already exists (project-local or bundled), read it first. Append new findings to
@@ -130,7 +140,8 @@ Follow the voice file schema in `references/schema.md` exactly — frontmatter, 
 sections in order (Why this voice is on the board / relevant here, Core model / perspective,
 Vocabulary, Recurring stances, Signature stories / illustrations, Likely-take heuristic, Tensions
 and limits, then Source trail or Basis as appropriate, plus an optional Personal lens for
-profiles). Write to `./voices/<name>.md` (project-local tier) by default.
+profiles, and an optional Tone calibration when it's actually needed). Write to
+`./voices/<name>.md` (project-local tier) by default.
 
 Look at existing voice files (in either tier) for the depth and tone this schema expects before
 writing a new one — a thin file with only bullet-point stances is not enough; it needs a real
@@ -176,13 +187,16 @@ against whatever Threshold its board states, never rewriting the artifact itself
 end with an instruction to answer the user's question directly, in that voice. Close with a
 short "ready" line naming what input to send next (a question, or an artifact).
 
-**A board of several voices** (`deliberate` mode): stack one flattened block per voice, then add
-the round procedure in plain steps — independent takes first, agreement/disagreement stated
-plainly, a rebuttal round only if explicitly asked for, a vote only if disagreement survives that
-*and* it's explicitly asked for, then a closing synthesis that can disagree with the board's own
-vote. Never default to running the rebuttal round or the vote in the exported instructions
-themselves — the exported prompt should preserve the same opt-in-by-request shape `ask-the-board`
-uses, not collapse it into always running every round.
+**A board of several voices** (`deliberate` mode): stack one flattened block per voice, each under
+its own clear, consistently-worded heading (e.g. `## Perspective: <Name>`) so the target platform
+can be asked to recall or refocus on one voice by name later in the conversation without resending
+the whole prompt — worth doing once a board has more than two or three voices. Then add the round
+procedure in plain steps — independent takes first, agreement/disagreement stated plainly, a
+rebuttal round only if explicitly asked for, a vote only if disagreement survives that *and* it's
+explicitly asked for, then a closing synthesis that can disagree with the board's own vote. Never
+default to running the rebuttal round or the vote in the exported instructions themselves — the
+exported prompt should preserve the same opt-in-by-request shape `ask-the-board` uses, not
+collapse it into always running every round.
 
 **Output**: show the flattened prompt directly in the response — this is the default and the
 usual case. Only write it to a file if the user explicitly asks to save it, and if so, say
