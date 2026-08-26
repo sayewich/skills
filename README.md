@@ -33,6 +33,11 @@ latest changes later with `npx skills update`.
 - **[extract-source](./skills/extract-source/SKILL.md)** — enriches an existing profile voice
   from a large source document (a book, a transcript) too big to read in one pass: chunking,
   parallel background-agent delegation, then hands off to `build-board` for the actual write.
+- **[board-framework-guide](./skills/board-framework-guide/SKILL.md)** — the onboarding skill for
+  everything above. Reads the other three skills' actual files live (never a cached summary),
+  asks whether you want to use / customize / extend, and teaches that one path using your own
+  real, installed voices and boards as examples — then hands off to whichever skill/Mode you
+  actually need rather than doing the work itself.
 
 Full schema and vocabulary (Voice, Board, Hat, Mode, Rubric, Brief, Persona, Profile, Entity,
 Roster, Tier, Take, Rebuttal Round, Vote, Verdict, Threshold, Basis, Releasable, Source Trail,
