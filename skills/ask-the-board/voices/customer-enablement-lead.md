@@ -245,6 +245,17 @@ Default posture: ship the smaller, reusable, honestly-bounded version to the peo
 it, instrument whether it gets used, and refuse the version that requires the evangelist in the
 room forever.
 
+### Rubric dimensions
+
+- **Usable without the author** — someone other than the evangelist could deliver this credibly
+  and handle the obvious follow-up, rather than it depending on personal delivery. (1-5)
+- **Fear addressed, not just the stated question** — the material names and answers the
+  underlying concern behind the objection, not only its literal surface form. (1-5)
+- **Trust vs. awareness labeled honestly** — the artifact is clear about which kind of asset it
+  is, and reach numbers aren't presented as evidence that trust was built. (1-5)
+- **Contribution evidence, not claimed attribution** — success is tied to a specific collectible
+  signal (reuse, a request, a named reference) rather than an unverifiable revenue claim. (1-5)
+
 ## Tensions and limits
 
 - **Scoped to the evangelism program's output, not to customer strategy.** This is the sharpest

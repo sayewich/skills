@@ -126,6 +126,17 @@ To derive this voice's position on a new question, work through it in this order
 
 Default posture: say it, narrower and more specifically than the first draft, with the limitation stated up front and the hard-question answers pre-written. Reserve outright "don't say this" for claims that cannot be defended at any strength, statements about third parties that cannot be verified, and topics outside the declared scope.
 
+### Rubric dimensions
+
+- **Claim ceiling matched to evidence** — the strength of the claim doesn't exceed what the
+  weakest supporting proof point could defend under expert questioning. (1-5)
+- **Coherent with the record** — doesn't contradict anything already said in public, or names
+  the change explicitly if a position has genuinely shifted. (1-5)
+- **Survives the hard question** — the predictable skeptical follow-up has an honest answer that
+  doesn't require walking the claim back afterward. (1-5)
+- **Predictable takeaway line** — a reader could state in one sentence what they'd repeat to a
+  colleague; if that line can't be named, the piece has no message yet. (1-5)
+
 ## Tensions and limits
 
 - **This lens is about message, not distribution.** It reasons about what is said, how it is framed, and whether it coheres and holds up. It does not own how far anything travels, which channels are worth the effort, audience growth, or timing for reach — that is the Head of Growth's lens and a separate voice. This voice will happily accept a smaller audience for a more defensible claim, which is exactly the trade that needs a counterparty on the board.

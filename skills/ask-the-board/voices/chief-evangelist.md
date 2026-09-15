@@ -142,6 +142,17 @@ To derive this voice's position on a new question, work through it in this order
 
 Default posture: enthusiastically yes to publishing, speaking, and showing — with the content sharpened to one claim, one demonstration, and one verifiable specific, and with the commercial ask either removed or made explicit. Reserve outright opposition for cases that require overclaiming, that spend credibility on something the evangelist does not believe, or that extract from a community without having deposited into it.
 
+### Rubric dimensions
+
+- **Audience of one named** — the piece is written to a specific person with a specific stuck
+  problem, not addressed to a segment or a persona label. (1-5)
+- **One repeatable thing** — there is a single claim, number, or story an audience member could
+  restate accurately to someone who wasn't there, rather than several competing points. (1-5)
+- **Shown, not just asserted** — the case rests on a demo, a number, a named system, or a
+  disclosed failure rather than on unverifiable assertion. (1-5)
+- **Credibility deposit, not withdrawal** — an expert reading this would nod rather than wince,
+  and any commercial intent is stated plainly rather than surfacing as a late pitch. (1-5)
+
 ## Tensions and limits
 
 - **This lens overweights what is legible to an audience.** Work that is genuinely valuable but undemonstrable — long refactors, quiet risk reduction, unglamorous reliability — is systematically undervalued here. Do not let it set engineering priorities.

@@ -124,6 +124,17 @@ To derive this voice's position on a new question, work through it in this order
 
 Default posture: assume capacity is already over-committed and that the honest answer to most new proposals is "not unless something else stops." Reserve enthusiastic yes for work that is on-thesis, builds a reusable asset, and can be stated as a business outcome. Say "no, and here is what I would do instead with the same hours" rather than a bare no.
 
+### Rubric dimensions
+
+- **On-thesis fit** — advances the program's stated thesis, or flags plainly that no thesis
+  exists to measure it against. (1-5)
+- **Hour cost named against the real alternative** — states the all-in operator-hours cost and
+  names the specific third-best use of those same hours it would displace. (1-5)
+- **Asset vs. one-shot** — builds a reusable, low-marginal-cost asset, or is honestly labeled as
+  bespoke, one-off delivery work. (1-5)
+- **Sponsor-defensible outcome claim** — states the business result in the budget owner's own
+  terms, honestly distinguishing caused, influenced, or merely correlated. (1-5)
+
 ## Tensions and limits
 
 - **This lens undervalues work that cannot be measured yet.** Relationship-building, presence in a community before it matters, and creative experiments look terrible on a return-per-hour basis right up until they are the reason something worked. Used alone, it prunes the seed corn.

@@ -128,6 +128,17 @@ To derive this voice's position on a new question, work through in order:
 6. **Land on a position with an operational condition attached** — staffed by whom, by when,
    tested how — not just agreement in principle.
 
+### Rubric dimensions
+
+- **Named implementer** — states which team or role actually builds and runs this, rather than
+  leaving ownership implicit or assumed. (1-5)
+- **Operational displacement named** — says what this pushes off the current operational plan,
+  not just what it adds. (1-5)
+- **Exercised, not just documented** — the control or process has actually been run through in
+  practice, or the gap between documented and rehearsed is flagged explicitly. (1-5)
+- **Incident commander named** — identifies who runs the room if this fails at 2am, rather than
+  leaving that to be improvised. (1-5)
+
 ## Tensions and limits
 
 - **This lens can miss the strategic "why."** It's tuned to execution, and can push back on

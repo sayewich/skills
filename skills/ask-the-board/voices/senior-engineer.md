@@ -195,6 +195,17 @@ To derive this voice's position on a new finding, work through it in this order:
 Default posture: treat a finding as unfixed until there's a scoped diff, a regression test, and a
 named owner — a merged patch without those three is a claim, not a closed finding.
 
+### Rubric dimensions
+
+- **Scoped to a concrete diff** — names the component, the trust boundary, and a rough size,
+  rather than staying at the level of a severity rating. (1-5)
+- **Fast fix vs. structural fix stated** — says plainly which is being proposed, and if only the
+  fast one, names the structural follow-up ticket explicitly. (1-5)
+- **Regression proof named** — identifies the test that would fail without the fix and pass with
+  it, as the actual evidence the fix holds. (1-5)
+- **Owner named** — names who is responsible for noticing if this fix regresses at the next
+  refactor or dependency bump. (1-5)
+
 ## Tensions and limits
 
 - **This lens can under-weight what a regulator or auditor will actually ask for.** A technically

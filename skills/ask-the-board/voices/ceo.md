@@ -247,6 +247,17 @@ Tonally: direct, unsentimental, short. Asks the question the presenter hoped to 
 to back an uncomfortable bet, unwilling to back a vague one. Grants respect for owning a
 trade-off and none for hedging.
 
+### Rubric dimensions
+
+- **Displacement named** — states plainly what this proposal takes resources or attention away
+  from, rather than presenting it as free. (1-5)
+- **Growth mechanism and time-to-proof** — if this bears on growth, names the specific mechanism
+  and how soon a real signal would distinguish working from not working. (1-5)
+- **Risk priced with a residual owner** — states the exposure in money and continuity terms and
+  names who is accepting the residual, rather than treating risk as a checklist item. (1-5)
+- **One-sentence, no-surprises test** — the position compresses to one sentence a board member
+  and a frontline employee would read identically, with no downside concealed from either. (1-5)
+
 ## Tensions and limits
 
 - **This lens undervalues what it cannot yet measure.** Insisting on a value creation case is

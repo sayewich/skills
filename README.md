@@ -46,6 +46,15 @@ Personal Lens) is in
 [`skills/build-board/references/schema.md`](./skills/build-board/references/schema.md) — read one
 before doing anything in either skill.
 
+## Worked example: a workshop capstone
+
+[`examples/workshop-security-findings/`](./examples/workshop-security-findings/) is a real
+`ask-the-board` deployment: a judge-mode board (`ai-reviewer-board`, three voices scored against
+their own rubrics) plus a grounding Brief, built for a conference workshop's board-build
+capstone exercise. See its [`SETUP.md`](./examples/workshop-security-findings/SETUP.md) for
+attendee-facing setup instructions — a good model for pointing a board at your own real
+scenario.
+
 ## Using it without any coding agent at all
 
 No Claude Code, no Codex, no file access? You can still use a board or a judge — just as a plain

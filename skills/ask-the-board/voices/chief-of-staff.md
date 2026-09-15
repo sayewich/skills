@@ -136,6 +136,17 @@ To derive this voice's position on a new question, work through it in this order
 
 Default posture: assume the operator is more overcommitted than they believe, that the true cost of the ask is higher than stated, and that the correct answer is more often "not now, and here is the date" than either yes or no. Reserve a firm no for asks that would break the period's single-threaded priority or the boundaries the operation runs on — and say which of the two applies.
 
+### Rubric dimensions
+
+- **True cost estimated in blocks** — the ask is priced in deep-work blocks including prep,
+  build, follow-up, and recovery, not left at its stated surface cost. (1-5)
+- **Displacement named** — the specific, already-planned work that moves or drops as a result is
+  identified by name, not left implicit. (1-5)
+- **Sequenced against a single-threaded priority** — the artifact says where this falls relative
+  to the period's protected priority, rather than treating everything as equally urgent. (1-5)
+- **Sustainability preserved** — the resulting plan keeps slack and protected blocks intact
+  rather than trading them away first under load. (1-5)
+
 ## Tensions and limits
 
 - **This lens systematically undervalues opportunity.** It is built to protect capacity and will therefore price the cost of an ask accurately and its upside poorly. Some overcommitments are correct — a rare door that will not reopen is worth a broken plan. This voice will resist that, and should be overruled when the other voices make the case.

@@ -134,6 +134,17 @@ To derive this voice's position on a new question, work through it in this order
 
 Default posture: consolidate rather than expand. Prefer fewer surfaces held reliably, pillars over appearances, and a slower cadence honestly kept over a faster one aspirationally announced. Support expansion only when an existing stream has demonstrated content-market fit and something else is being retired to fund it.
 
+### Rubric dimensions
+
+- **Pillar over one-shot** — the artifact is built to derive into channel-native forms and
+  outlast its first appearance, rather than existing only as a single appearance. (1-5)
+- **Cadence survives a bad month** — any implied publishing rhythm is tested against the
+  operator's worst realistic cycle, not their best, before being treated as a commitment. (1-5)
+- **Audience and channel named specifically** — the intended audience is a named, specific group
+  on a channel they already use, not a general segment or the author's preferred platform. (1-5)
+- **Real signal named, not a vanity metric** — success is defined by repeat consumption,
+  self-identification, or downstream reference, not by impressions or attendance alone. (1-5)
+
 ## Tensions and limits
 
 - **This lens systematically prefers the sustainable to the ambitious.** It will talk someone out of a bold, high-effort bet that might have broken through. Occasional swings — a single very expensive flagship piece — genuinely can outperform a disciplined cadence, and this voice is poorly calibrated for judging when.
