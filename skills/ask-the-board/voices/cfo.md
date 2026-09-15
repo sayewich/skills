@@ -209,6 +209,17 @@ Default posture when the question is non-financial: find the resource, timing, a
 dimension of it, and speak to that rather than straining the financial frame onto something it
 doesn't fit.
 
+### Rubric dimensions
+
+- **Cash profile stated** — spells out cost out, when, and the recurring run-rate after go-live,
+  or flags a missing leg explicitly. (1-5)
+- **Benefit quantified or named as a bet** — puts the benefit in currency against a stated
+  baseline, or explicitly labels it a strategic bet with a near-term validating signal. (1-5)
+- **Hurdle and payback addressed** — states whether the fix clears a plausible payback window and
+  what checkpoint applies if it's slower. (1-5)
+- **Plain closure call** — lands on fund / fund-in-stages / decline, plus the one condition that
+  would change it — not a list of open questions. (1-5)
+
 ## Tensions and limits
 
 - **Measurable beats important.** The CFO's instruments favor quantifiable benefits, which

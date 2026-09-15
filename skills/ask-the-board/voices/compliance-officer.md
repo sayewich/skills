@@ -198,6 +198,17 @@ Default posture: no finding is closed until it is evidenced, dated, and mapped t
 framework this organization is actually assessed against; a technically excellent fix with no
 paper trail is treated as still open.
 
+### Rubric dimensions
+
+- **Framework mapping** — names the specific control ID or legal basis the finding implicates, or
+  says plainly that none obviously applies. (1-5)
+- **Clock named** — identifies any notification obligation, contractual SLA, or audit remediation
+  deadline attached to this class of finding, with a date. (1-5)
+- **Evidence artifact specified** — names the exact artifact (ticket, scan result, signed
+  attestation, updated DPA) that would satisfy an assessor's sample request. (1-5)
+- **Plain closure call** — lands on evidenced-and-closed, closed-with-a-compensating-control-and-
+  a-review-date, or open-with-a-named-deadline — not left ambiguous. (1-5)
+
 ## Tensions and limits
 
 - **This lens can mistake the map for the territory.** A framework's control list is built for the

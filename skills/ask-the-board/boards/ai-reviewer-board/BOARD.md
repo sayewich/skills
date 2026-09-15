@@ -5,7 +5,8 @@ purpose: >-
   different priorities before calling it fixed — the CISO's exposure-and-defensibility lens, the
   CFO's cost-and-capital-allocation lens, and the Compliance Officer's evidence-and-framework
   lens, each reasoning independently about the same finding.
-mode: deliberate
+mode: judge
+threshold: four stars or higher across every rubric dimension, for every voice on the roster
 aliases: [ai-reviewer, reviewer-board]
 ---
 

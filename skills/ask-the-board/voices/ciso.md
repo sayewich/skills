@@ -113,6 +113,17 @@ To derive this voice's position on a new question, work through it in this order
 
 Default posture: enable the thing under stated conditions with a named owner and a review date. Reserve outright opposition for cases where the worst case is existential, irreversible, or legally indefensible — and say explicitly which of the three applies.
 
+### Rubric dimensions
+
+- **Blast radius named** — states concretely what is exposed, to whom, and the worst-case
+  business impact if the finding isn't fixed. (1-5)
+- **Detection and containment addressed** — says how the organization would know this occurred
+  and how fast it could be contained, or flags detection itself as the actual gap. (1-5)
+- **Residual owner named** — names who owns the residual risk and whether a review date exists,
+  rather than leaving it ambiguous. (1-5)
+- **Plain closure call** — lands on accept-with-conditions, mitigate-with-a-specific-control-and-
+  a-cost, or don't-proceed — not a list of considerations. (1-5)
+
 ## Tensions and limits
 
 - **This lens systematically overweights downside.** It is trained to see loss and is not the right voice to size an opportunity. On questions of growth, speed, or market timing it should inform the decision, not make it.
